@@ -1,0 +1,23 @@
+26/12/15 10:00
+26/12/15 20:30
+3
+Asia/Calcutta
+8
+1 Rahul Asia/Calcutta
+Free
+2 Rohith Asia/Calcutta
+Free
+3 Anna Europe/Berlin
+Free
+
+
+
+# Test Case: All users are Free and we need 2 hour slot
+
+Result as Expected:
+The possible slots are as follows:
+Start Time: 2015-12-26 10:00 End Time: 2015-12-26 12:00
+Start Time: 2015-12-26 12:00 End Time: 2015-12-26 14:00
+Start Time: 2015-12-26 14:00 End Time: 2015-12-26 16:00
+Start Time: 2015-12-26 16:00 End Time: 2015-12-26 18:00
+Start Time: 2015-12-26 18:00 End Time: 2015-12-26 20:00

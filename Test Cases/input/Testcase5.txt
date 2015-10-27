@@ -1,0 +1,228 @@
+26/12/15 09:00
+26/12/15 21:00
+5
+Asia/Calcutta
+4
+1 Rahul Asia/Calcutta
+26/12/15 09:00-26/12/15 14:15,26/12/15 15:15-26/12/15 21:00
+2 Rohith Asia/Calcutta
+26/12/15 15:00-26/12/15 21:00
+3 Anna Asia/Calcutta
+Free
+4 Vinni Asia/Calcutta
+Free
+5 Rocky Asia/Calcutta
+Free
+
+
+
+# Test Case:
+
+Result as Expected:
+
+
+
+Sorry!! There was no slot found for the meeting where everyone can participate.
+Don't worry!! We will find the slot where maximum members can participate.
+
+*********** Next best possible slots are as follows **************
+
+Start Time: 2015-12-26 09:00 End Time: 2015-12-26 10:00
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 09:15 End Time: 2015-12-26 10:15
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 09:30 End Time: 2015-12-26 10:30
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 09:45 End Time: 2015-12-26 10:45
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 10:00 End Time: 2015-12-26 11:00
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 10:15 End Time: 2015-12-26 11:15
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 10:30 End Time: 2015-12-26 11:30
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 10:45 End Time: 2015-12-26 11:45
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 11:00 End Time: 2015-12-26 12:00
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 11:15 End Time: 2015-12-26 12:15
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 11:30 End Time: 2015-12-26 12:30
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 11:45 End Time: 2015-12-26 12:45
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 12:00 End Time: 2015-12-26 13:00
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 12:15 End Time: 2015-12-26 13:15
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 12:30 End Time: 2015-12-26 13:30
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 12:45 End Time: 2015-12-26 13:45
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 13:00 End Time: 2015-12-26 14:00
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 13:15 End Time: 2015-12-26 14:15
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 13:30 End Time: 2015-12-26 14:30
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 13:45 End Time: 2015-12-26 14:45
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 14:00 End Time: 2015-12-26 15:00
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3
+
+
+Start Time: 2015-12-26 14:15 End Time: 2015-12-26 15:15
+The number of people who can attend is: 4
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rocky  EmpId: 5
+UserName: Rahul  EmpId: 1
+UserName: Anna  EmpId: 3
+
+
+

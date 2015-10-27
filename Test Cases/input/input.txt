@@ -1,0 +1,34 @@
+26/12/15 09:00
+26/12/15 21:00
+5
+Asia/Calcutta
+4
+1 Rahul Asia/Calcutta
+26/12/15 09:00-26/12/15 21:00
+2 Rohith Asia/Calcutta
+26/12/15 09:00-26/12/15 13:30,26/12/15 15:00-26/12/15 21:00
+3 Anna Asia/Calcutta
+26/12/15 14:45-26/12/15 21:15
+4 Vinni Asia/Calcutta
+26/12/15 09:45-26/12/15 13:45
+5 Rocky Asia/Calcutta
+26/12/15 09:45-26/12/15 10:45
+
+
+
+# Test Case:
+
+Result as Expected:
+
+
+Sorry!! There was no slot found for the meeting where everyone can participate.
+Don't worry!! We will find the slot where maximum members can participate.
+
+*********** Next best possible slots are as follows **************
+
+Start Time: 2015-12-26 13:45 End Time: 2015-12-26 14:45
+The number of people who can attend is: 3
+The candidates who can attend the slot are as follows:
+UserName: Vinni  EmpId: 4
+UserName: Rohith  EmpId: 2
+UserName: Anna  EmpId: 3

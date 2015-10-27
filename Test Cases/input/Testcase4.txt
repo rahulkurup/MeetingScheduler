@@ -1,0 +1,23 @@
+26/12/15 09:00
+26/12/15 21:00
+5
+Asia/Calcutta
+4
+1 Rahul Asia/Calcutta
+26/12/15 10:15-26/12/15 14:15,26/12/15 15:15-26/12/15 21:00
+2 Rohith Asia/Calcutta
+26/12/15 15:00-26/12/15 21:00
+3 Anna Asia/Calcutta
+Free
+4 Vinni Asia/Calcutta
+Free
+5 Rocky Asia/Calcutta
+Free
+
+
+
+# Test Case:
+
+Result as Expected:
+**********The possible slots are as follows*********************
+Start Time: 2015-12-26 09:00 End Time: 2015-12-26 10:00
