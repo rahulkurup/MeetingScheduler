@@ -225,6 +225,7 @@ public class Scheduler {
 		List <Entry<Calendar, Set<UserData>>> mapList = new LinkedList<Map.Entry<Calendar,Set<UserData>>>(getSlotmap().entrySet());
 		int max_count = Integer.MIN_VALUE;  // The maximum number of people available in the slot
 		boolean slotFound = false;
+		boolean oneSlotFound = false;
 
 		// Go through map and loop through slots.
 		for(int i = 0; i <= mapList.size() - getDurationInUnits(); i++) {
@@ -261,7 +262,8 @@ public class Scheduler {
 				}
 
 				Set<UserData> userSet = data.getValue().get(endDate);
-				if(userSet.size() == max_count) {   // if the number of people who can attend is same the highest
+				if(userSet.size() == max_count && userSet.size() != 0) {   // if the number of people who can attend is same the highest and not zero
+					oneSlotFound = true;
 					System.out.println(String.format("Start Time: %s End Time: %s",
 		                               format.format(startDate.getTime()),
 		                               format.format(endDate.getTime())));
@@ -274,6 +276,10 @@ public class Scheduler {
 					System.out.println("\n");					
 				}
 			}
+		}
+		
+		if( (!oneSlotFound) {
+			System.out.println(String.format("No meeting can be scheduled." );
 		}
 	}
 
